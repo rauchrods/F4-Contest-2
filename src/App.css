@@ -12,11 +12,7 @@ tr{
  border-bottom: 1px solid white;
  height: 80px;
 }
-.ele-row{
-  /* border: 1px solid black;
-  display: flex;
-  justify-content: space-between; */
-}
+
 .ele-row img{
   width: 40px;
 }
